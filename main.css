@@ -280,10 +280,14 @@ div, p, input, button, form, span, a, ul, li {
         width: 200px;
     }
 
+    .c_s{
+        margin-right: 5%;
+    }
+
 }
 
 
-@media screen and (max-width:362px)
+@media screen and (max-width:363px)
 
 {
     .cl_1{
@@ -295,5 +299,7 @@ div, p, input, button, form, span, a, ul, li {
     .b_s{
         width: 200px;
     }
-
+    .im_s{
+        display: none;
+    }
 }
